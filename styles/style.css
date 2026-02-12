@@ -1,6 +1,7 @@
 .header {
   display: grid;
   grid-template-rows: auto 1fr;
+  height: 100vh;
   min-height: 668px;
   padding: 10px 10px 0 10px;
   position: relative;
@@ -216,6 +217,7 @@
 .footer {
   display: grid;
   place-items: center;
+  height: 100vh;
   min-height: 200px;
   padding: 20px;
   position: relative;
