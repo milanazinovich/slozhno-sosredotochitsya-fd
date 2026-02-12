@@ -264,7 +264,7 @@
 
 @media (width >= 768px) {
   .header {
-    min-height: 1004px;
+    max-height: 1004px;
   }
 
   .header__theme-menu-list {
@@ -416,7 +416,7 @@
   }
 
   .footer {
-    height: 1004px;
+    max-height: 1004px;
   }
 
   .footer__title {
@@ -428,7 +428,7 @@
  .header {
     display: grid;
     grid-template-rows: auto 1fr;
-    height: 750px;
+    max-height: 750px;
   }
   
   .header__theme-menu {
@@ -638,7 +638,7 @@
   }
 
   .footer {
-    height: 768px;
+    max-height: 768px;
   }
 
    .footer__title {
