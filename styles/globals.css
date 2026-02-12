@@ -9,7 +9,7 @@
 body {
   min-inline-size: 375px;
   max-inline-size: 1440px;
-  margin: 10 auto;
+  margin: 0 auto;
 
 }
 
@@ -45,7 +45,7 @@ a {
 @media(width>=1024px) {
 body {
   max-width: 1024px;
-  margin: 10 auto;
+  margin: 0 auto;
   font-family: Raleway, sans-serif;
  }
 }
