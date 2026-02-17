@@ -3,7 +3,6 @@
   grid-template-rows: auto 1fr;
   height: 100vh;
   max-height: 668px;
-  min-height: 668px;
   padding: 10px 10px 0 10px;
   position: relative;
 }
@@ -216,7 +215,6 @@
   justify-items: center;
   height: 100vh;
   max-height: 668px;
-  min-height: 668px;
   padding: 20px;
   position: relative;
 }
@@ -430,6 +428,8 @@
 @media (width >= 1024px) {
   .page {
     max-width: 1024px;
+    margin-top: 10px;
+    margin-right: 10px;
   }
 
   .header {
