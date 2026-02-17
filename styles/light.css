@@ -1,8 +1,14 @@
 :root.theme-light {
-  --backgroung-image: url("../images/cover-image-light.png");
-  --background-color: #FFF1F7;
-  --text-color: #353430;
-  --accent-color: #FF8DCB;
-  --title-color: #FFC2E6;
-  --sub-text-color: #353430;
+  --background-image: url("../images/cover-image-light.png");
+  --background-color: #FF8DCB;/**/
+  --text-color: #353430;/**/
+  --accent-color: #353430;/**/
+  --title-color: #FFC2E6;/**/
+  --sub-text-color: #353430;/**/
+  --shadow-color:#ff8dcb;/**/
+  --heading-color:#ff8dcb;
+}
+
+.theme-light .header__rec {
+  display: none;
 }

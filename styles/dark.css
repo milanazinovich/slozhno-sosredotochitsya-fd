@@ -1,9 +1,9 @@
 :root.theme-dark {
   --background-image: url("../images/cover-image-dark.png");
-  --background-color: #000028;
+  --background-color: #ff0070;
   --text-color: #000028;
   --accent-color: #FF0070;
   --title-color: #DB00FF;
-  --heading-color: #FF0070;
   --sub-text-color: #F1B2CE;
+  --shadow-color:#FF0070;
 }

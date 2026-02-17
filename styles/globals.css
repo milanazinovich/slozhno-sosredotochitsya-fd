@@ -41,11 +41,3 @@ a {
   font-size: inherit;
   line-height: inherit;
 }
-
-@media(width>=1024px) {
-body {
-  max-width: 1024px;
-  margin: 0 auto;
-  font-family: Raleway, sans-serif;
- }
-}
