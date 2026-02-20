@@ -264,7 +264,8 @@
 
 @media (width >= 768px) {
   .page {
-    padding-left: 0px;
+    padding-left: 10px;
+    padding-top: 10px;
   }
   .header {
     min-height: 1004px;
@@ -429,8 +430,8 @@
 
 @media (width >= 1024px) {
   .page {
-    max-width: 1024px;
-    margin-top: 10px;
+    max-width: 1014px;
+    padding-top: 10px;
     margin-right: 10px;
   }
 
