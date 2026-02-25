@@ -264,8 +264,7 @@
 
 @media (width >= 768px) {
   .page {
-    padding-left: 10px;
-    padding-top: 10px;
+    padding-left: 0px;
   }
   .header {
     min-height: 1004px;
@@ -293,6 +292,7 @@
 
   .main {
     margin-top: 30px;
+    margin-left: 10px;
   }
 
   /* ПЕРВАЯ СЕКЦИЯ */
@@ -430,7 +430,7 @@
 
 @media (width >= 1024px) {
   .page {
-    max-width: 1014px;
+    max-width: 1024px;
     padding-top: 10px;
     margin-right: 10px;
   }
