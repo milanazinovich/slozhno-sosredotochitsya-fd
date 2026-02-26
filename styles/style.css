@@ -175,6 +175,7 @@
   color: var(--sub-text-color);
   display: block;
   line-height: 23.4px;
+  margin-bottom: 10px;
 }
 
 .tip {
